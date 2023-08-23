@@ -1,0 +1,908 @@
+{
+  "CartoonVideo" : {
+	"Most Popular":[
+		{
+			"id": 1,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 2,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 3,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 4,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 5,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 6,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 7,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 8,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 9,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 10,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 11,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 12,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 13,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 14,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 15,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 16,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 17,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 18,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 19,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 20,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		}
+	],
+	"Top Movies":[
+		{
+			"id": 1,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 2,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 3,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 4,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 5,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 6,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 7,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 8,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 9,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 10,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 11,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 12,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 13,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 14,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 15,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 16,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 17,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 18,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 19,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 20,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		}
+	],
+	"Drama":[
+		{
+			"id": 1,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 2,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 3,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 4,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 5,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 6,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 7,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 8,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 9,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 10,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 11,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 12,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 13,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 14,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 15,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 16,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 17,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 18,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 19,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 20,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		}
+	],
+	"Family":[
+		{
+			"id": 1,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 2,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 3,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 4,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 5,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 6,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 7,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 8,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 9,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 10,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 11,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 12,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 13,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 14,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 15,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 16,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 17,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 18,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 19,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 20,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		}
+	],
+	"Horror":[
+		{
+			"id": 1,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 2,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 3,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 4,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 5,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 6,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 7,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 8,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 9,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 10,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 11,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 12,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 13,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 14,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 15,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 16,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 17,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 18,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 19,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 20,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		}
+	],
+	"Historical":[
+		{
+			"id": 1,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 2,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 3,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 4,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 5,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 6,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 7,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 8,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 9,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 10,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 11,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 12,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 13,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 14,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 15,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 16,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 17,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 18,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 19,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 20,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		}
+	],
+	"MovieSlider":[
+		{
+			"id": 1,
+			"Video_Id": "_ckNG2Clw28",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Prem Kumar",
+			"Movieimg":"https://i.ytimg.com/vi/_ckNG2Clw28/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Telugu"
+		},
+		{
+			"id": 2,
+			"Video_Id": "RVLNBVK8auM",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "JAILER",
+			"Movieimg":"https://i.ytimg.com/vi/RVLNBVK8auM/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Telugu"
+		},
+		{
+			"id": 3,
+			"Video_Id": "dXac28Hswms",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Kousalya Supraja Rama",
+			"Movieimg":"https://i.ytimg.com/vi/dXac28Hswms/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Telugu"
+		},
+		{
+			"id": 4,
+			"Video_Id": "NrRhdApPgmQ",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Samajavaragamana",
+			"Movieimg":"https://i.ytimg.com/vi/NrRhdApPgmQ/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Telugu"
+		},
+		{
+			"id": 5,
+			"Video_Id": "8ZscPPpEWPo",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Shaakuntalam",
+			"Movieimg":"https://i.ytimg.com/vi/8ZscPPpEWPo/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Telugu"
+		}
+	]
+  }
+}
