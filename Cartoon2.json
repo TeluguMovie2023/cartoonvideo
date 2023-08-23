@@ -1065,53 +1065,53 @@
 	"MovieSlider":[
 		{
 			"id": 1,
-			"Video_Id": "_ckNG2Clw28",
+			"Video_Id": "-tSzRhdGDmg",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Prem Kumar",
-			"Movieimg":"https://i.ytimg.com/vi/_ckNG2Clw28/maxresdefault.jpg",
+			"Movie_name": "Motu Patlu",
+			"Movieimg":"https://i.ytimg.com/vi/-tSzRhdGDmg/maxresdefault.jpg",
             "Description": "",
-            "Language": "Telugu"
+            "Language": "Hindi"
 		},
 		{
 			"id": 2,
-			"Video_Id": "RVLNBVK8auM",
+			"Video_Id": "t0Q2otsqC4I",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "JAILER",
-			"Movieimg":"https://i.ytimg.com/vi/RVLNBVK8auM/maxresdefault.jpg",
+			"Movie_name": "Tom and Jerry",
+			"Movieimg":"https://i.ytimg.com/vi/t0Q2otsqC4I/maxresdefault.jpg",
             "Description": "",
-            "Language": "Telugu"
+            "Language": "Hindi"
 		},
 		{
 			"id": 3,
-			"Video_Id": "dXac28Hswms",
+			"Video_Id": "AJQpoZfS5IY",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Kousalya Supraja Rama",
-			"Movieimg":"https://i.ytimg.com/vi/dXac28Hswms/maxresdefault.jpg",
+			"Movie_name": "Chhota Bheem",
+			"Movieimg":"https://i.ytimg.com/vi/AJQpoZfS5IY/maxresdefault.jpg",
             "Description": "",
-            "Language": "Telugu"
+            "Language": "Hindi"
 		},
 		{
 			"id": 4,
-			"Video_Id": "NrRhdApPgmQ",
+			"Video_Id": "S16erRJpsWw",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Samajavaragamana",
-			"Movieimg":"https://i.ytimg.com/vi/NrRhdApPgmQ/maxresdefault.jpg",
+			"Movie_name": "Oggy and the Cockroaches",
+			"Movieimg":"https://i.ytimg.com/vi/S16erRJpsWw/maxresdefault.jpg",
             "Description": "",
-            "Language": "Telugu"
+            "Language": "Hindi"
 		},
 		{
 			"id": 5,
-			"Video_Id": "8ZscPPpEWPo",
+			"Video_Id": "5oH9Nr3bKfw",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Shaakuntalam",
-			"Movieimg":"https://i.ytimg.com/vi/8ZscPPpEWPo/maxresdefault.jpg",
+			"Movie_name": "Tom and Jerry",
+			"Movieimg":"https://i.ytimg.com/vi/5oH9Nr3bKfw/maxresdefault.jpg",
             "Description": "",
-            "Language": "Telugu"
+            "Language": "Hindi"
 		}
 	]
   }
